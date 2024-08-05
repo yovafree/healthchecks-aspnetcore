@@ -1,0 +1,10 @@
+.vs
+obj
+bin
+
+appsettings.*.json
+
+YouTubeGPT.AppHost/data
+*.user
+*.orig
+.azure
